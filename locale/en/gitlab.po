@@ -27,6 +27,11 @@ msgid_plural "%s additional commits have been omitted to prevent performance iss
 msgstr[0] ""
 msgstr[1] ""
 
+msgid "%s hello world."
+msgid_plural "%s hellow worlds."
+msgstr[0] ""
+msgstr[1] ""
+
 msgid "%{commit_author_link} committed %{commit_timeago}"
 msgstr ""
 
