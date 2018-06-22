@@ -5,3 +5,4 @@ component:
     purchase: 'Purchase'
     signOut: 'Sign Out'
     support: 'Support'
+    error: 'Error'
