@@ -1,0 +1,8 @@
+component:
+  extensionHeader:
+    extensionSettings: 'Extension Settings'
+    myTrackedEmails: 'My Tracked Emails'
+    purchase: 'Purchase'
+    signOut: 'Sign Out'
+    support: 'Support'
+    support1: 'Support1'
